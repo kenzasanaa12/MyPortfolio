@@ -1,3 +1,4 @@
+ 
 
 /* import fonts from fonts.css file */ 
 @import url(./fonts.css);
@@ -9,6 +10,10 @@
 /* import global styling */ 
 @import url(./partials/_global.css);
 
+/* vargi */
+:root {
+    --roboto: #854fee;
+  }
 
 /* start navigation */ 
 
